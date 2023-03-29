@@ -1,0 +1,98 @@
+/* Set font styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Set background color */
+  body {
+    background-color: #f7f7f7;
+  }
+  
+  /* Set container styles */
+  .container-fluid {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  /* Set navbar styles */
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navbar-toggler {
+    border-color: transparent;
+  }
+  
+  .nav-link {
+    font-size: 18px;
+  }
+  
+  .form-control {
+    font-size: 16px;
+  }
+  
+  .btn-outline-warning {
+    color: #ffc107;
+    border-color: #ffc107;
+  }
+  
+  /* Set news section styles */
+  #newsType {
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  #newsdetails {
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 30px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-img-top {
+    object-fit: cover;
+    height: 200px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .card-link {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffc107;
+  }
+  
+  /* Set footer styles */
+  .navbar-dark {
+    background-color: #333333;
+  }
+  
+  .text-white {
+    color: #ffffff;
+  }
+  
+  .text-warning {
+    color: #ffc107;
+  }
+  
+  h5 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
